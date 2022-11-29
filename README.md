@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 https://img.shields.io/badge/LinkedIn-blue
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
