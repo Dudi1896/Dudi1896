@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://dev.to/dudi1896
 
 
 <div id="badges" align="center">
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="your-linkedin-URL">
-    <img src="https://dev.to/dudi1896" alt="Dev Badge"/>
+    <img src="https://dev.to/dudi1896" alt="Devto Badge"/>
   </a>
   
 </div>
