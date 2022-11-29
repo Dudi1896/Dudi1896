@@ -89,4 +89,6 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Tester-Post-2](https://dev.to/dudi1896/tester-post-2-gn6)
+- [Tester-Post-1](https://dev.to/dudi1896/tester-post-1-33mg)
 <!-- BLOG-POST-LIST:END -->
