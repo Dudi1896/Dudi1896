@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://dev.to/dudi1896
+
 
 
 <div id="badges" align="center">
@@ -47,9 +47,12 @@ https://dev.to/dudi1896
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="your-linkedin-URL">
-    <img src="https://dev.to/dudi1896" alt="Devto Badge"/>
+  <a href="https://dev.to/dudi1896">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Devto Badge"/>
   </a>
+  
+  
+  
   
 </div>
 
