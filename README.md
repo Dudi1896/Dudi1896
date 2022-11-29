@@ -45,6 +45,11 @@ Here are some ideas to get you started:
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  <a href="your-linkedin-URL">
+    <img src="https://dev.to/dudi1896" alt="Dev Badge"/>
+  </a>
+  
 </div>
 
 
