@@ -84,3 +84,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dudi1896&theme=modern-lilac)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudi1896&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
