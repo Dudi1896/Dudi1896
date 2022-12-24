@@ -100,6 +100,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark])
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudi1896&langs_count=8&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=Dudi1896&langs_count=8&theme=vision-friendly-dark])
 ---
 
 ### :writing_hand: Blog Posts :
