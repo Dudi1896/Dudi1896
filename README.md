@@ -95,6 +95,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark)]([https://github.com/dudi1896/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical)]
+
+
 ---
 
 ### :writing_hand: Blog Posts :
