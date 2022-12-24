@@ -92,14 +92,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dudi1896&theme=modern-lilac)]([http://github-readme-streak-stats.herokuapp.com?user=Dudi1896&theme=modern-lilac])
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark])
-
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical)]([https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical])
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark])
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudi1896&langs_count=8&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=Dudi1896&langs_count=8&theme=vision-friendly-dark])
 ---
