@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical)]([https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical])
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&langs_count=&layout=compact&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&langs_count=&layout=compact&theme=vision-friendly-dark])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark)]([https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&layout=compact&theme=vision-friendly-dark])
 
 ---
 
