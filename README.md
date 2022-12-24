@@ -98,6 +98,8 @@ Here are some ideas to get you started:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical)]([https://github-readme-stats.vercel.app/api?username=dudi1896&show_icons=true&theme=radical])
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudi1896&langs_count=8)](https://github.com/dudi1896/github-readme-stats)
+
 ---
 
 ### :writing_hand: Blog Posts :
